@@ -22,7 +22,7 @@ let currentAge = 15
  
  For example, to store the current grade of all your courses:
  */
-let grades = [87.5, 95.2, 78.4, 85.7, 92.3, 87.4, 92.1, 72.1]
+let grades = [85, 85.7, 92.2, 84.5, 89.1, 89.6, 94.2]
 /*:
  One could then calculate your current overall average by writing this code – run the playground to try it out:
  */
