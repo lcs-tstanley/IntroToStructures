@@ -6,5 +6,10 @@
         <page name='3 - Simplest Example'/>
         <page name='4 - Area Example - Rectangle'/>
         <page name='5 - Authoring Structures'/>
+        <page name='Area Of A Circle'/>
+        <page name='Area Of A Parellelagram'/>
+        <page name='Volume Of A Square Base Pyramid'/>
+        <page name='Volume Of A Sphere'/>
+        <page name='Surface Area Of A Sphere'/>
     </pages>
 </playground>
