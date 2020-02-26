@@ -11,5 +11,7 @@
         <page name='Volume Of A Square Base Pyramid'/>
         <page name='Volume Of A Sphere'/>
         <page name='Surface Area Of A Sphere'/>
+        <page name='Perimeter Of A Circle'/>
+        <page name='Area Of A Triangle'/>
     </pages>
 </playground>
